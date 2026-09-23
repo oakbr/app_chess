@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title>Avatar alternativo de xadrez</title>
+  <rect width="128" height="128" rx="20" fill="#1d4ed8"/>
+  <path d="M64 22 49 40l8 9-17 22h48L71 49l8-9zM45 78h38l8 12H37zM34 96h60v10H34z" fill="#fff"/>
+  <path d="M64 22 49 40l8 9-17 22h24V22zM45 78h19v28H34v-10z" fill="#dbeafe"/>
+</svg>
