@@ -15,7 +15,7 @@ type StreamersResponse = {
 type FilterOption = 'all' | 'online' | 'offline'
 type Theme = 'light' | 'dark'
 
-const FALLBACK_AVATAR = '/chess-avatar.svg'
+const FALLBACK_AVATAR = `${import.meta.env.BASE_URL}chess-avatar.svg`
 const STREAMERS_API_URL = 'https://api.chess.com/pub/streamers'
 const FILTER_OPTIONS: Array<{ value: FilterOption; label: string }> = [
   { value: 'all', label: 'Todos' },
