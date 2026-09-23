@@ -371,6 +371,16 @@ body,
     padding: 4px 0;
   }
 
+  .username-filter__controls {
+    flex-direction: column;
+  }
+
+  .username-filter input,
+  .username-filter .filter-button--apply {
+    width: 100%;
+    box-sizing: border-box;
+  }
+
   .filter-button {
     width: 100%;
   }
